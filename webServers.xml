@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d2767e3-2695-4f30-b67d-93f0481002a4" name="zealer.mall" url="http://s.inner.zealer.com:1452">
+        <fileTransfer host="178.165.3.10" port="22" rootFolder="/home/fjy/zealer.mall" accessType="SFTP" password="dfd0dfcfdfcbdfc6dfcfdfd8df84dfc9dfc5dfc7" username="fjy">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="200000" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
