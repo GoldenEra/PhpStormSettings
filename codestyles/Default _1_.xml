@@ -3,6 +3,7 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
@@ -12,5 +13,6 @@
   </XML>
   <codeStyleSettings language="PHP">
     <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
   </codeStyleSettings>
 </code_scheme>
