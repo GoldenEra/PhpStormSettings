@@ -17,6 +17,7 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.php`</mask>
     </recentFileMasks>
   </component>
 </application>
