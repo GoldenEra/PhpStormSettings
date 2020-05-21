@@ -2,7 +2,7 @@
   <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Menlo" />
+    <option name="FONT_FAMILY" value="Cascadia Mono PL" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
