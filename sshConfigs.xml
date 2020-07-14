@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="178.165.3.10" id="4a7eb30e-a6f1-45eb-9f93-45ac9ce79b75" port="22" customName="zealer.mall" nameFormat="CUSTOM" username="fjy" />
-      <sshConfig authType="PASSWORD" host="178.165.3.10" id="597fd29f-93ae-48ce-8bc9-56f890889fe9" port="22" customName="zealer.mall" nameFormat="CUSTOM" username="fjy" />
+      <sshConfig authType="PASSWORD" host="178.165.3.10" id="c6489e6a-df1d-4c66-ae10-715cafbba8d1" port="22" customName="zealer.mall" nameFormat="CUSTOM" username="fjy" />
     </configs>
   </component>
 </application>
