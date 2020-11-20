@@ -1,8 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="178.165.3.10" id="4a7eb30e-a6f1-45eb-9f93-45ac9ce79b75" port="22" customName="zealer.mall" nameFormat="CUSTOM" username="fjy" />
-      <sshConfig authType="PASSWORD" host="178.165.3.10" id="d33d9f6d-da02-4649-8769-530805183ebe" port="22" customName="zealer.mall" nameFormat="CUSTOM" username="fjy" />
+      <sshConfig host="106.52.224.60" id="04e484b1-a56f-4040-819f-c92f5efe6fca" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="richardfeng" />
     </configs>
   </component>
 </application>
