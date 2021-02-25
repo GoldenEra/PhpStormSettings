@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'xiaoe_admin'" />
-    <option name="defaultScopeName" value="Project 'xiaoe_admin'" />
-    <option name="SEARCH_SCOPE" value="Project 'xiaoe_admin'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>php</mask>
   </component>
 </application>
