@@ -6,6 +6,7 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="log-20-04-16" type="PLAIN_TEXT" />
       <mapping ext="htaccess" type="PLAIN_TEXT" />
       <mapping ext="r" type="PLAIN_TEXT" />
