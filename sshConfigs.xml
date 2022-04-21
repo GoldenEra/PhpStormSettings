@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="106.52.224.60" id="04e484b1-a56f-4040-819f-c92f5efe6fca" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="richardfeng" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.16.1.202" id="0f0b528e-a212-4ab4-b80e-5b1eccea4042" port="22" customName="zealer" nameFormat="CUSTOM" username="fjy" useOpenSSHConfig="true">
+        <option name="customName" value="zealer" />
+      </sshConfig>
     </configs>
   </component>
 </application>
