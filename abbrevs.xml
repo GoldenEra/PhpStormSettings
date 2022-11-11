@@ -2,6 +2,9 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="FindNext" />
+      <action id="MergeAllWindowsAction">
+        <abbreviation name="merge tab" />
+      </action>
     </abbreviations>
   </component>
 </application>
