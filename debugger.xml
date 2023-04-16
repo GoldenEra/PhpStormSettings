@@ -93,13 +93,8 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
   </component>
 </application>
